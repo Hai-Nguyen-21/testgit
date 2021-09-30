@@ -34,7 +34,7 @@
                         UPLOAD FILE ĐIỂM
                     </h1>
                     
-                    <form action="/toolthi/Readlsistmark" enctype="multipart/form-data" method="post">
+                    <form action="/test1/Readlsistmark" enctype="multipart/form-data" method="post">
                         <div class="container_body">
                             <div class="container_body-button">
                                 <input type="file" id="namefile" name="namefile" class="btnFile">
@@ -60,7 +60,7 @@
                                 </div>
                             </div>
                             <div class="container_body-submit">
-                                <button formaction="/toolthi/Readlsistmark" class="btn_submit">SUBMIT</button>
+                                <button class="btn_submit">SUBMIT</button>
                             </div>
                         </div>
                     </form>
